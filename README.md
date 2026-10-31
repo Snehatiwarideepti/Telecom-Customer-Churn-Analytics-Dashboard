@@ -1,7 +1,7 @@
 # Telecom-Customer-Churn-Analytics-Dashboard
 
 ## Project Overview
-
+<img width="1533" height="846" alt="Screenshot 2026-07-09 092212" src="https://github.com/user-attachments/assets/0562a03c-3104-43a8-93b0-750e294c4b91" />
 This Power BI project analyzes customer churn behavior and identifies key factors affecting customer retention. The dashboard provides actionable insights into customer demographics, contract types, billing patterns, internet services, and technical support usage.
 
 The goal is to help businesses understand why customers leave and develop effective retention strategies through data-driven decision-making.
